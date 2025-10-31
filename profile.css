@@ -14,7 +14,7 @@ img{
     border-radius: 80%;
 }
 
-.main{
+main{
     background-color: rgb(19, 18, 18);
     margin-top: 50px;
     padding: 25px;
@@ -91,3 +91,4 @@ button{
 }
 
 }
+
