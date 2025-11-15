@@ -64,7 +64,9 @@ button{
     border-radius: 10px;
     font-weight: bold;
 }
-
+button:hover{
+    background-color: grey;
+}
 @media only screen and (max-width: 480px) {
 body{
     margin: 5px;
@@ -91,4 +93,5 @@ button{
 }
 
 }
+
 
