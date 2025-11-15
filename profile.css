@@ -17,7 +17,7 @@ img{
 main{
     background-color: rgb(19, 18, 18);
     margin-top: 50px;
-    padding: 25px;
+    padding: 15px;
     height: 500px;
     max-width: 270px;
     border: none;
@@ -93,6 +93,7 @@ button{
 }
 
 }
+
 
 
 
