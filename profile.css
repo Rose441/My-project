@@ -75,9 +75,9 @@ body{
 }
 
 main{
-    height: 690px;
+    height: 590px;
     margin: 0;
-    max-width: 390px;
+    max-width: 360px;
     padding-top: 10px;
    
 }
@@ -90,11 +90,12 @@ img{
 }
 
 button{
-    width: 170px;
+    width: 200px;
     margin-top: 3px;
     margin-bottom: 9px;
 
 }
+
 
 
 
