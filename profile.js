@@ -1,4 +1,4 @@
-const gitEl = document.querySelectorAll("git-el")
+const gitEl = document.querySelectorAll(".git-el")
 
 const links = [
       "http://github.com/rose441",
@@ -10,8 +10,9 @@ const links = [
       
 ];
   for (let i = 0; i < gitEl.length; i++) {
-      gitEl.addEventListener ("click", function() {
+      gitEl[i].addEventListener ("click", function() {
           window.open(links[i], "_blank" );
     });
   } 
+
 
